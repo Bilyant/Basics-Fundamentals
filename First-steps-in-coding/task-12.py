@@ -1,5 +1,3 @@
-"""  Deposit Calculator """
-
 deposited_sum = float(input())
 deposited_time_months = int(input())
 annual_interest = float(input())

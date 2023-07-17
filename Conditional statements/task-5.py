@@ -1,5 +1,3 @@
-""" The printed resut will defer based on the input number """
-
 number = int(input())
 if number < 100:
     print("Less than 100")

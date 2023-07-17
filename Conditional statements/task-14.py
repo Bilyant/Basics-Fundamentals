@@ -1,6 +1,3 @@
-""" Calculating the final price for computer parts """
-
-
 allowed_budget = float(input())
 video_cards = int(input())
 processors = int(input())

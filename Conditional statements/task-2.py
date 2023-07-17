@@ -1,6 +1,3 @@
-""" Comparing two numbers
-The bigger number will be printed on the console"""
-
 first_number = int(input())
 second_number = int(input())
 

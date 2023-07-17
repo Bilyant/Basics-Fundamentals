@@ -1,6 +1,3 @@
-""" Code for calculating if Ivan has managed to 
-beat the current world swimming records """
-
 import math
 
 current_world_record_seconds = float(input())

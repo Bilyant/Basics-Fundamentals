@@ -1,6 +1,3 @@
-""" Calculating the final prise of office supplies and
-subtracting the given discount at the end   """
-
 packet_of_pens_price = 5.8
 packet_of_markers_price = 7.2
 detergent_per_liter_price = 1.2

@@ -1,6 +1,3 @@
-""" The following code allows you to calculate the area
- of four different figures"""
-
 figure_type = input()
 side_a = float(input())
 area = 0

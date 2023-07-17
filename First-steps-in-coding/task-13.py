@@ -1,7 +1,3 @@
-""" How many hour per day should you read in order to
-finish a book from start to end based on the reading
-speed and the pages count """
-
 total_book_pages = int(input())
 pages_per_hour = int(input())
 days_for_reading = int(input())

@@ -1,5 +1,3 @@
-""" Concatenation  """
-
 architect_name = input()
 projects_count = int(input())
 hours_needed = projects_count * 3

@@ -1,6 +1,3 @@
-""" Calculating the liters of water available in a 
-fish tank based on its size and the current occupancy  """
-
 length_cm = int(input())
 width_cm = int(input())
 height_cm = int(input())

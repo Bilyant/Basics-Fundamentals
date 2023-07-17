@@ -1,5 +1,3 @@
-""" Radians to Degrees converter """
-
 from math import pi
 
 input_radians = float(input())

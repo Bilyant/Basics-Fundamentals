@@ -1,5 +1,3 @@
-""" Calculating the cost for a food delivery  """
-
 price_for_chicken_menu = 10.35
 price_for_fish_menu = 12.4
 price_for_vegetarian_menu = 8.15

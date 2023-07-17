@@ -1,6 +1,3 @@
-""" Calculating a bonus based on the provided number """
-
-
 number = int(input())
 bonus = 0
 

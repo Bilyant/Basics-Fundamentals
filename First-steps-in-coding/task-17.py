@@ -1,6 +1,3 @@
-""" Calculating the cost for basketball equipment
-which includes annual fee besides the sport clothes  """
-
 annual_fee = int(input())
 price_shoes = annual_fee * 0.6
 price_uniform = price_shoes * 0.8

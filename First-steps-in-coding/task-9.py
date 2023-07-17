@@ -1,5 +1,3 @@
-"""  This code calculates the final price and the discount for yard landscaping  """
-
 cubic_meters = float(input())
 total_price = cubic_meters * 7.61
 discount = total_price * 0.18

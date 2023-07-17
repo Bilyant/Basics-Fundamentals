@@ -1,7 +1,3 @@
-""" Calculating what time it would be if we just add
-15 minutes to the current time """
-
-
 hour = int(input())
 current_minutes = int(input())
 minutes_plus_15 = current_minutes + 15

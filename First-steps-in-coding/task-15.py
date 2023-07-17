@@ -1,7 +1,3 @@
-""" Calculating the cost for repainting which
-includes the materials needed as well as the
-labor cost  """
-
 price_nylon_per_cubic_meter = 1.5
 price_paint_per_liter = 14.5
 price_paint_thinner_per_liter = 5

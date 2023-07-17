@@ -1,6 +1,3 @@
-""" Converting minutes into seconds """
-
-
 first_score = int(input())
 second_score = int(input())
 third_score = int(input())

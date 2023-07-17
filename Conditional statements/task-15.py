@@ -1,7 +1,3 @@
-""" wCalculating whether my lunch break would be enough
-to watch my episode """
-
-
 import math
 
 series_name = input()

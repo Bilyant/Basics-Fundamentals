@@ -1,5 +1,3 @@
-""" How quick the internet speed is based on the provided number """
-
 speed_net = float(input())
 if speed_net <= 10:
     print("slow")

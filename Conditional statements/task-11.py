@@ -1,8 +1,3 @@
-""" Calculating the profile when taking into account
-the price for each item sold and then distracting the rent 
- At the end we check if the profit is enough to cover the
-excursion expenses """
-
 puzzle_single_price = 2.6
 doll_single_price = 3
 teddy_bear_single_price = 4.1

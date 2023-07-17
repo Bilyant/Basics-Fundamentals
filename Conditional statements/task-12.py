@@ -1,7 +1,3 @@
-""" Calculations for filming expenses based
-on the provided data """
-
-
 budget = float(input())
 statists_count = int(input())
 statists_uniform_single_price = float(input())
