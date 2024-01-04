@@ -1,0 +1,10 @@
+numbers = list(map(int, input().split(', ')))
+positive_numbers = list(filter(lambda n: n >= 0, numbers))
+negative_numbers = list(filter(lambda n: n < 0, numbers))
+even_numbers = list(filter(lambda n: n % 2 == 0, numbers))
+odd_numbers = list(filter(lambda n: n % 2 != 0, numbers))
+
+print(f'Positive: {", ".join([str(n) for n in positive_numbers])}')
+print(f'Negative: {", ".join([str(n) for n in negative_numbers])}')
+print(f'Even: {", ".join([str(n) for n in even_numbers])}')
+print(f'Odd: {", ".join([str(n) for n in odd_numbers])}')
